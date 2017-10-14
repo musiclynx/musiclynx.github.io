@@ -403,7 +403,7 @@ var AppComponent = (function () {
     }
     AppComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_4" /* Component */])({
-            selector: 'my-app',
+            selector: 'app-root',
             template: "\n  <nav>\n    <a routerLink=\"/dashboard\" routerLinkActive=\"active\">{{title}}</a>\n  </nav>\n  <router-outlet></router-outlet>\n  ",
             styles: [__webpack_require__(680)]
         }), 
