@@ -202,7 +202,7 @@ Apache License
  See the License for the specific language governing permissions and
  limitations under the License.
 
-js-base64@2.4.9
+js-base64@2.6.4
 BSD-3-Clause
 Copyright (c) 2014, Dan Kogai
 All rights reserved.
@@ -255,9 +255,9 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-core-js@2.5.1
+core-js@2.4.1
 MIT
-Copyright (c) 2014-2017 Denis Pushkarev
+Copyright (c) 2014-2016 Denis Pushkarev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
